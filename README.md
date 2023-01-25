@@ -1,1 +1,2 @@
-# Dice-Roller
+# Dice Roller
+### I have written a program in Kotlin that simulates the rolling of a dice. The program features a button that, when pressed, will randomly generate a number between 1 and 6, simulating the roll of a traditional six-sided die. The resulting number is then displayed on the screen for the user to see. The program uses the built-in random number generation capabilities of the Kotlin programming language to ensure that the rolls are truly random. This program can be used for various purposes such as playing games or making random decisions.
